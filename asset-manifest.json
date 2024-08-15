@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Cocktail-finder-react-redux/static/css/main.31d6cfe0.css",
-    "main.js": "/Cocktail-finder-react-redux/static/js/main.ddcc980b.js",
+    "main.js": "/Cocktail-finder-react-redux/static/js/main.08b2b73a.js",
     "static/js/787.a0503be5.chunk.js": "/Cocktail-finder-react-redux/static/js/787.a0503be5.chunk.js",
     "index.html": "/Cocktail-finder-react-redux/index.html",
-    "main.ddcc980b.js.map": "/Cocktail-finder-react-redux/static/js/main.ddcc980b.js.map",
+    "main.08b2b73a.js.map": "/Cocktail-finder-react-redux/static/js/main.08b2b73a.js.map",
     "787.a0503be5.chunk.js.map": "/Cocktail-finder-react-redux/static/js/787.a0503be5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.ddcc980b.js"
+    "static/js/main.08b2b73a.js"
   ]
 }
