@@ -13,7 +13,7 @@ function App() {
     <>
       <Routes>
         <Route
-          path="/"
+          path="/Cocktail-finder-react-redux/"
           element={
             <>
               <Layout>
