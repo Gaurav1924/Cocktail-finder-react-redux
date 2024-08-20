@@ -1,0 +1,97 @@
+.full-width-container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+    padding-right: 0;
+    box-sizing: border-box;
+}
+
+
+/* About.css */ 
+.section-about {
+    padding: 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .section-about h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .section-about p {
+    font-size: 1.1em;
+    line-height: 1.6;
+  }
+
+  /* Contact.css */
+.section-contact {
+    padding: 20px;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  .section-contact h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  .contact-form label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+  }
+  
+  .contact-form button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .contact-form button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Help.css */
+.section-help {
+    padding: 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .section-help h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .section-help p {
+    font-size: 1.1em;
+    line-height: 1.6;
+  }
+  
+  .section-help ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .section-help li {
+    margin: 10px 0;
+    font-size: 1em;
+  }
+  
